@@ -1,0 +1,7 @@
+Guillermo's Shopping List:
+Priority # | Item Name | Real Product Name | Quantity | Price | Store Name
+3 | rice | Great Value Long Grain Enriched Rice, 20 lb | 4 | 17.48 | Walmart
+4 | bananas | (3 Pack) Great Value Banana Chips, 12 oz | 3 | 8.39 | Walmart
+
+
+ --> End of shopping list
